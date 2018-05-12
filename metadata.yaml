@@ -1,0 +1,40 @@
+_repo: You-Don-t-Make-Wine-Like-the-Greeks-Did_31897
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L.R.
+    - Summers, Leo Ramon
+    - Summers, L. R.
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fisher, David E.
+    birthdate: 1932
+    gutenberg_agent_id: '35541'
+    url: http://www.gutenberg.org/2009/agents/35541
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: You Don't Make Wine Like the Greeks Did
+url: http://www.gutenberg.org/ebooks/31897
