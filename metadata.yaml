@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '35541'
     url: http://www.gutenberg.org/2009/agents/35541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31897#You-Don-t-Make-Wine-Like-the-Greeks-Did
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-04-06'
 gutenberg_type: Text
